@@ -28,5 +28,7 @@ this.setState({
 });
 
 // use `react-set` to setState
+import $set from 'react-set';
+
 this.setState({ a: $set(this.state.a, (a) => (a.c.e = 4)) });
 ```
