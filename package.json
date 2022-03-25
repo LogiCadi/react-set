@@ -1,0 +1,19 @@
+{
+  "name": "react-set",
+  "version": "1.0.4",
+  "description": "reactive set state",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "react",
+    "set"
+  ],
+  "author": "mm996",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.179"
+  }
+}
